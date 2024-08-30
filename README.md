@@ -4,7 +4,7 @@
 
 Hello there👋
 
-I'm Yuriy, a QA Software Engineer with 6 months of experience in manual and automated testing. Skilled in JavaScript and Python with a good understanding of object-oriented programming. Experience with automation tools such as Selenium and Playwright. Have solid knowledge of SQL and experience working with databases such as MySQL and PostgreSQL to verify data integrity and perform
+I'm Yuriy, a QA Software Engineer with 1 year of experience in manual and automated testing. Skilled in JavaScript and TypeScript with a good understanding of object-oriented programming. Experience with automation tools such as Selenium and Playwright. Have solid knowledge of SQL and experience working with databases such as MySQL and PostgreSQL to verify data integrity and perform
 API testing. Creating test documentation (checklists, test cases, and bug reports). Strong personal skills with the ability to effectively communicate test results and collaborate with developers, analysts, and project managers.</div>  
   
 - 🔭 I’m currently working on my pet projects and studying a lot every day  
@@ -20,8 +20,7 @@ API testing. Creating test documentation (checklists, test cases, and bug report
 ### Tools and Technologies   
   
 - JavaScript  
-- Python  
-- TypeScript  
+- TypeScript    
 - HTML/CSS  
 - Technical Documentation / SRS  
 - Postman  
@@ -32,11 +31,11 @@ API testing. Creating test documentation (checklists, test cases, and bug report
 - Jenkins  
 - Jest  
 - Chai  
-- Mocha  
-- PyTest   
+- Mocha    
 - GIT  
 - KDiff3  
-- TestRail  
+- TestRail
+- Cucumber 
 - AzureDevOps  
 - Apache JMeter  
 - Fiddler Classic / Fiddler Everywhere  
@@ -76,7 +75,7 @@ API testing. Creating test documentation (checklists, test cases, and bug report
   
 ### Certificates 🏆  
 
-They will definitely be soon))
+Практичний курс з мануального тестування - Попелюха. Тестування ПЗ [Certificate](https://github.com/yuriiyzub/manualpractice/blob/main/Certificate%20QA%20Manual%20course.pdf)
 
 ### Pet-projects 👨‍💻  
 
