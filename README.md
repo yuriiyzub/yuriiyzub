@@ -4,7 +4,7 @@
 
 Hello there👋
 
-I'm Yuriy, a QA Software Engineer with 1 year of experience in manual and automated testing. Skilled in JavaScript and TypeScript with a good understanding of object-oriented programming. Experience with automation tools such as Selenium and Playwright. Have solid knowledge of SQL and experience working with databases such as MySQL and PostgreSQL to verify data integrity and perform
+I'm Yuriy, a QA Software Engineer with 6 month of experience in manual and automated testing. Skilled in JavaScript and TypeScript with a good understanding of object-oriented programming. Experience with automation tools such as Selenium and Playwright. Have solid knowledge of SQL and experience working with databases such as MySQL and PostgreSQL to verify data integrity and perform
 API testing. Creating test documentation (checklists, test cases, and bug reports). Strong personal skills with the ability to effectively communicate test results and collaborate with developers, analysts, and project managers.</div>  
   
 - 🔭 I’m currently working on my pet projects and studying a lot every day  
