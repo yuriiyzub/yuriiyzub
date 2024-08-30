@@ -67,7 +67,7 @@ API testing. Creating test documentation (checklists, test cases, and bug report
 
 ### Courses 📓  
 
-- Практичний курс з мануального тестування - Попелюха. Тестування ПЗ [Practice](https://github.com/yuriiyzub/manualpractice)  
+- A practical course in manual testing - Попелюха. Software testing. [Practice](https://github.com/yuriiyzub/manualpractice)  
   
 - Introduction to Software Testing - University of Minnesota Practice [Practice](https://github.com/yuriiyzub/introtosoftwaretesting)  
   
@@ -75,11 +75,11 @@ API testing. Creating test documentation (checklists, test cases, and bug report
   
 ### Certificates 🏆  
 
-Практичний курс з мануального тестування - Попелюха. Тестування ПЗ [Certificate](https://github.com/yuriiyzub/manualpractice/blob/main/Certificate%20QA%20Manual%20course.pdf)
+A practical course in manual testing - Попелюха. Software testing. [Certificate](https://github.com/yuriiyzub/manualpractice/blob/main/Certificate%20QA%20Manual%20course.pdf)
 
 ### Pet-projects 👨‍💻  
 
-Today I will find a few minutes to add them!
+I will add them soon! Necessarily)
 
 ## Connect with me  
 
