@@ -73,7 +73,7 @@ API testing. Creating test documentation (checklists, test cases, and bug report
   
 - Automated Testing in JavaScript - EPAM Campus
 
-- Effective work with defects and bug reports. Lecture with exam.  
+- Effective work with defects and bug reports. Lecture with exam.[Practice](https://github.com/yuriiyzub/shortcourses/blob/main/Practice%20with%20bugs.pdf)
   
 ### Certificates 🏆  
 
