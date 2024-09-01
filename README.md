@@ -69,7 +69,7 @@ API testing. Creating test documentation (checklists, test cases, and bug report
 
 - A practical course in manual testing - Nataliia Popelyshko. Software testing. [Practice](https://github.com/yuriiyzub/manualpractice)  
   
-- Introduction to Software Testing - University of Minnesota Practice [Practice](https://github.com/yuriiyzub/introtosoftwaretesting)  
+- Introduction to Software Testing - University of Minnesota. [Practice](https://github.com/yuriiyzub/introtosoftwaretesting)  
   
 - Automated Testing in JavaScript - EPAM Campus
 
