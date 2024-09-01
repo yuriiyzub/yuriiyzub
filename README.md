@@ -17,7 +17,7 @@ API testing. Creating test documentation (checklists, test cases, and bug report
 
 ## My Skill Set (or what i can help your company with 😉)  
 
-<details><summary> ### Tools and Technologies</summary><table><tr><td valign="top" width="33%">   
+### Tools and Technologies  
   
 - JavaScript  
 - TypeScript    
@@ -43,7 +43,7 @@ API testing. Creating test documentation (checklists, test cases, and bug report
 - JSON  
 - VS Code  
 - Kibana  
-  </table>
+
 ### RBMS / Database servers  
 ###   
   
