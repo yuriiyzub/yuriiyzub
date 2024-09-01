@@ -43,7 +43,7 @@ API testing. Creating test documentation (checklists, test cases, and bug report
 - JSON  
 - VS Code  
 - Kibana  
-  
+  </table>
 ### RBMS / Database servers  
 ###   
   
