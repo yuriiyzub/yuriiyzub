@@ -83,7 +83,9 @@ Effective work with defects and bug reports. Lecture with exam. [Certificate](ht
  
 ### Pet-projects 👨‍💻  
 
-I will add them soon! Necessarily)
+Pet-project 1. Silpo.com testing
+
+- [Test Plan](https://github.com/yuriiyzub/petprojects/blob/main/Silpo%20testing/Test%20Plan%20-%20Silpo.pdf)
 
 ## Connect with me  
 
