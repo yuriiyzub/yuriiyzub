@@ -80,6 +80,8 @@ API testing. Creating test documentation (checklists, test cases, and bug report
 A practical course in manual testing - Nataliia Popelyshko. Software testing. [Certificate](https://github.com/yuriiyzub/manualpractice/blob/main/Certificate%20QA%20Manual%20course.pdf)
 
 Effective work with defects and bug reports. Lecture with exam. [Certificate](https://github.com/yuriiyzub/shortcourses/blob/main/Effective%20work%20with%20defects%20and%20bug%20reports.%20Certificate.pdf)
+
+Amedia internship. QA Manual Engineer. [Certificate](https://github.com/yuriiyzub/shortcourses/blob/main/Yurii%20Zub%20certificate%20Amedia%20internship.pdf)
  
 ### Pet-projects 👨‍💻  
 
